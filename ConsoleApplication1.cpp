@@ -3,6 +3,9 @@
  *  @version : 1.0
 */
 
+/*
+*1102046
+*/
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
